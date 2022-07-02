@@ -47,6 +47,9 @@ TagManager:
   - name: Walls
     uniqueID: 2312298563
     locked: 0
+  - name: Bocks
+    uniqueID: 1322712865
+    locked: 0
   - name: Player
     uniqueID: 3453730387
     locked: 0
